@@ -34,8 +34,8 @@
 
     <MySqlCoreVersion>8.0.9-dmr</MySqlCoreVersion>
     <MySqlConnectorVersion>0.49.3</MySqlConnectorVersion>
-    <MySqlV6>6.10.7</MySqlV6>
-    <MySqlV8>8.0.14</MySqlV8>
+    <MySqlV6>8.0.20</MySqlV6>
+    <MySqlV8>8.0.20</MySqlV8>
     <NpgsqlVersion>4.0.0</NpgsqlVersion>
     <NpgsqlEFCoreVersion>2.1.0</NpgsqlEFCoreVersion>
     <PomeloEFCoreVersion>2.0.1</PomeloEFCoreVersion>
