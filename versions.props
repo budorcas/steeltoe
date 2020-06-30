@@ -22,7 +22,7 @@
     <HttpVersion>4.3.3</HttpVersion>
     <HttpClientVersion>4.3.3</HttpClientVersion>
     <LoggingVersion>2.1.0</LoggingVersion>
-    <JwtTokensVersion>5.2.2</JwtTokensVersion>
+    <JwtTokensVersion>6.7.1</JwtTokensVersion>
     <OwinVersion>4.0.0</OwinVersion>
     <OwinOAuthVersion>4.0.0</OwinOAuthVersion>
     <SymReaderVersion>1.2.0</SymReaderVersion>
