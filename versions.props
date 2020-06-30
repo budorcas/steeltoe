@@ -50,7 +50,7 @@
     <HdrHistogramVersion>2.0.0</HdrHistogramVersion>
     <HttpExtensionsVersion>2.1.0</HttpExtensionsVersion>
     <DiagnosticsExtensionsVersion>2.2.5</DiagnosticsExtensionsVersion>
-    <JsonNetVersion>11.0.2</JsonNetVersion>
+    <JsonNetVersion>12.0.3</JsonNetVersion>
     <MockHttpVersion>4.0.0</MockHttpVersion>
     <MoqVersion>4.8.2</MoqVersion>
     <OpenCensusVersion>0.1.0-alpha-42253</OpenCensusVersion>
