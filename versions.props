@@ -48,7 +48,7 @@
     <ConsulVersion>0.7.2.6</ConsulVersion>
     <CoverletVersion>2.6.0</CoverletVersion>
     <HdrHistogramVersion>2.0.0</HdrHistogramVersion>
-    <HttpExtensionsVersion>2.1.0</HttpExtensionsVersion>
+    <HttpExtensionsVersion>3.1.5</HttpExtensionsVersion>
     <DiagnosticsExtensionsVersion>2.2.5</DiagnosticsExtensionsVersion>
     <JsonNetVersion>11.0.2</JsonNetVersion>
     <MockHttpVersion>4.0.0</MockHttpVersion>
