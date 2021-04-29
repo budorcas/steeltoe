@@ -1,0 +1,18 @@
+version: 2
+updates:
+- package-ecosystem: nuget
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "21:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: Oracle.ManagedDataAccess.Core
+    versions:
+    - 2.19.101
+  - dependency-name: SonarAnalyzer.CSharp
+    versions:
+    - 8.15.0.24505
+  - dependency-name: Oracle.EntityFrameworkCore
+    versions:
+    - 3.19.80
